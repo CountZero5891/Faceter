@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faceter", "Faceter\Faceter.csproj", "{CF716ACD-0CE0-4C20-BD94-6124E6B354AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF716ACD-0CE0-4C20-BD94-6124E6B354AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF716ACD-0CE0-4C20-BD94-6124E6B354AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF716ACD-0CE0-4C20-BD94-6124E6B354AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF716ACD-0CE0-4C20-BD94-6124E6B354AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22C46285-8923-424C-8681-922ECF37DFEF}
+	EndGlobalSection
+EndGlobal
